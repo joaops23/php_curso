@@ -1,0 +1,7 @@
+Polimorfismo 
+Do grego = ter várias formas,
+
+por exemplo: 
+Um método Pai, tem um método em uma classe Filho que tem o mesmo funcionamento 
+
+na segunda declaração, no elemento filho, o funcionamento do método é alterado, isso é o polimorfismo, o mesmo método pode ter determinado comportamento conforme for declarado na classe extendida.

@@ -1,0 +1,3 @@
+// pode ser uma substituição do include e do require(_once),
+// essa função faz com que não precise dicar resgatando o arquivo de cada classe sempre que for usá-las
+// quando é dado o "new", para instanciar um obj, esse elemento busca nas classes que foram definidas a classe que corresponde com a chamada 

@@ -1,0 +1,6 @@
+não é instanciada por um objeto
+
+ela apenas é utilizada atravéz  de outra classe extendida dela 
+
+uma classe pode herdar apenas uma classe abstrata 
+mas uma classe pode implementar diversas interfaces
