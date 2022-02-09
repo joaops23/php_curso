@@ -1,0 +1,5 @@
+DAO - Data Access Object
+Forma de trabalhar com PHP - OO - PDO 
+Forma de realizar e compor a abstração das classes de banco de dados
+Organiza o código para que, as classes de banco de dados sejam independentes, e se for preciso em alguma hora trocar ou mudar algum elemento ou forma de asseso ou mesmo o funcionamento 
+do método, uma alteração pode ser o suficiente para resolver todos os problemas.
